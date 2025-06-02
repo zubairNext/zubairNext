@@ -10,8 +10,8 @@
 
 <div align="center">
   
-  [![GitHub followers](https://img.shields.io/github/followers/batmanNEXT?style=social)](https://github.com/batmanNEXT)
-  [![Profile Views](https://komarev.com/ghpvc/?username=batmanNEXT&color=blue)](https://github.com/batmanNEXT)
+  [![GitHub followers](https://img.shields.io/github/followers/zubairNEXT?style=social)](https://github.com/zubairNEXT)
+  [![Profile Views](https://komarev.com/ghpvc/?username=zubairNEXT&color=blue)](https://github.com/zubairNEXT)
   
 </div>
 
@@ -75,8 +75,8 @@
 
 ## 📈 My GitHub Stats
 
-![BatmanNEXT's GitHub Stats](https://github-readme-stats.vercel.app/api?username=batmanNEXT&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=batmanNEXT&layout=compact&theme=radical)
+![ZubairNEXT's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zubairNEXT&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zubairNEXT&layout=compact&theme=radical)
 
 ---
 
@@ -92,20 +92,20 @@
 ## 📝 Featured Projects
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=batmanNEXT&show_icons=true&theme=react" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zubairNEXT&show_icons=true&theme=react" alt="GitHub stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=batmanNEXT&theme=react" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zubairNEXT&theme=react" alt="GitHub streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=batmanNEXT&layout=compact&theme=react&hide=html" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zubairNEXT&layout=compact&theme=react&hide=html" alt="Top languages" />
 </p>
 
-- **[AI-AGENT](https://github.com/batmanNEXT/AI-Agent)**  
+- **[AI-AGENT](https://github.com/zubairNEXT/AI-Agent)**  
   _Short description about what this awesome project does._
 
-- **[FP&A](https://github.com/batmanNEXT/FP&A)**  
+- **[FP&A](https://github.com/zubairNEXT/FP&A)**  
   _Another professional-grade full stack project highlight._
 
-- **[See more...](https://github.com/batmanNEXT?tab=repositories)**
+- **[See more...](https://github.com/zubairNEXT?tab=repositories)**
 
 ---
 
